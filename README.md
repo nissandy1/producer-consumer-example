@@ -37,5 +37,5 @@ mvn clean compile assembly:single
 ```
 Run program by executing
 ```cmd
-java -jar {path-to-project}/target/PC-1.0-SNAPSHOT-jar-with-dependencies.jar
+java -jar {path-to-project}/target/example-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
